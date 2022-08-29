@@ -7,7 +7,7 @@ This repo is about basics of flask api and how to deploy a one on one machine le
 - make requirements.txt file with command pip freeze > requierments.txt
 
 
-## Commmon mistakes  to avoid error in heroku
+## Commmon mistakes  to avoid error in heroku deployment
 1 . check spelling
    - your app name sholud be in app.py only becauses its connected with gunicorn
    - spelling for requirements.txt---------not requirement.txt ---missing 's'
